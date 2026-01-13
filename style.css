@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(139, 147, 238);
+    margin: 0;
+}
+
+#magicBtn {
+    padding: 20px;
+    font-size: 20px;
+    background-color: rgb(37, 113, 68);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: url("GETGUD.png"),auto;
+    transition: background-color 0.3s;
+}
